@@ -1,0 +1,8 @@
+/*
+
+!/.gitignore
+!/README.md
+!/PROJECT/
+
+/PROJECT/*
+!/PROJECT/bank_system.java
